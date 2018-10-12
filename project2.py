@@ -5,3 +5,4 @@ while True:
     print(text)
     text = text + "ORA"
     print("itai itai")
+    
